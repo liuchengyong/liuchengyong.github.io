@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我的前端世界</title>
+  <subtitle>一个人走的路，不需要解释</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://liuchengyong.github.io/"/>
+  <updated>2017-05-04T13:18:21.000Z</updated>
+  <id>http://liuchengyong.github.io/</id>
+  
+  <author>
+    <name>liuchengyong</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://liuchengyong.github.io/2013/07/14/hello-world/"/>
+    <id>http://liuchengyong.github.io/2013/07/14/hello-world/</id>
+    <published>2013-07-14T09:01:34.000Z</published>
+    <updated>2017-05-04T13:18:21.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
